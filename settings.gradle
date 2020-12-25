@@ -1,0 +1,8 @@
+include ':mvp2'
+include ':mvpNet'
+include ':mvp_3'
+include ':mvp'
+include ':myapplication2'
+include ':myapplication'
+include ':app'
+rootProject.name = "Mvp_2"
